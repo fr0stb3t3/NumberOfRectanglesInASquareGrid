@@ -5,7 +5,7 @@ This repository is about a number of different proofs for solving the problem of
 I thought about this problem and then I realised that there might be a way to find a mathematical formula which I did using recursion.
 Then I googled about this problem and say that it has been solved using Combinatorics (https://math.stackexchange.com/questions/1656686/how-many-rectangles-can-be-observed-in-the-grid), I didn't really get this proof (I don't have a mathematical background), so I tried working with combinatorics and did it my own way and it differs slightly from the stack overflow answer. My mate also solved this problem using symmeteric matrices. 
 
-This repo will have three different proofs and it will have variations of those problems
+This repo will have three different proofs and it will have variations of the problems
 - Proof by recursion
 - Proof by combinatorics
 - Proof by Symmeteric matrices
